@@ -1,6 +1,5 @@
 # TiendaProductos
-En esta tienda se aplican codigos como, SWITCH, IF, ELSE,INT,DOUBLE
-
+En esta tienda se aplican codigos como, SWITCH, IF, ELSE,INT,DOUBLE,SCANNER,STRING
 
     
     public static void main(String[] args) {
