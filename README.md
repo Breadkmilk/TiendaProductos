@@ -2,11 +2,7 @@
 En esta tienda se aplican codigos como, SWITCH, IF, ELSE,INT,DOUBLE
 
 
-package com.mycompany.clase17;
-import java.util.Scanner;
-
-public class tarea2 {
-
+    
     public static void main(String[] args) {
        Scanner teclado = new Scanner(System.in); 
        
